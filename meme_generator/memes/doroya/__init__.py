@@ -13,11 +13,11 @@ img_dir = Path(__file__).parent / "images"
 
 
 def doroya(images: list[BuildImage], texts, args):
-    img = images[0].convert("RGBA").circle().resize((183, 183))  # 用户头像
+    img = images[0].convert("RGBA").circle().resize((192, 156))  # 用户头像
 
     # fmt: off
     locs = [
-        (88, 82), (88, 82), (52, 89), (90, 77), (84, 90), (52, 88)
+        (88, 82), (88, 85), (52, 89), (90, 77), (84, 88), (52, 88)
     ]
     # fmt: on
     frames: list[IMG] = []
@@ -25,7 +25,7 @@ def doroya(images: list[BuildImage], texts, args):
         frame = BuildImage.open(img_dir / f"{i}.png")
         frame.paste(img, locs[i], alpha=True)
         frames.append(frame.image)
-    return save_gif(frames, 0.08)
+    return save_gif(frames, 0.1)
 
 
 add_meme(

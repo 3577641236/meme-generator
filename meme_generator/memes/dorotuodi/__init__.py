@@ -12,28 +12,28 @@ from meme_generator.utils import save_gif
 img_dir = Path(__file__).parent / "images"
 
 
-def doroya(images: list[BuildImage], texts, args):
-    img = images[0].convert("RGBA").circle().resize((192, 156))  # 用户头像
+def dorotuodi(images: list[BuildImage], texts, args):
+    img = images[0].convert("RGBA").circle().resize((61, 55))  # 用户头像
 
     # fmt: off
     locs = [
-        (88, 82), (88, 85), (52, 89), (90, 77), (84, 88), (52, 88)
+        (81, 64), (81, 60), (78, 64), (78, 59), (78, 58)
     ]
     # fmt: on
     frames: list[IMG] = []
-    for i in range(6):
+    for i in range(5):
         frame = BuildImage.open(img_dir / f"{i}.png")
         frame.paste(img, locs[i], alpha=True)
         frames.append(frame.image)
-    return save_gif(frames, 0.1)
+    return save_gif(frames, 0.08)
 
 
 add_meme(
-    "doroya",
-    doroya,
+    "dorotuodi",
+    dorotuodi,
     min_images=1,
     max_images=1,
-    keywords=["doro鸭"],
+    keywords=["doro拖地"],
     date_created=datetime(2025, 5, 19),
     date_modified=datetime(2025, 5, 19),
 )

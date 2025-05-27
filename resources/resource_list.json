@@ -892,6 +892,78 @@
     "hash": "a4f9b749b5481a65220581eb7be03d8b"
   },
   {
+    "path": "capooplay/capooplay/images/0.png",
+    "hash": "5ebded92a8e542fcfab4bdc1feadc634"
+  },
+  {
+    "path": "capooplay/capooplay/images/1.png",
+    "hash": "c3e4acfe2a83318e071151ffa1b816eb"
+  },
+  {
+    "path": "capooplay/capooplay/images/10.png",
+    "hash": "3bd4520ec5e5af545a55a4d96d62cfb2"
+  },
+  {
+    "path": "capooplay/capooplay/images/11.png",
+    "hash": "9f00397e0e450f5f7cf30a376b50b50e"
+  },
+  {
+    "path": "capooplay/capooplay/images/12.png",
+    "hash": "0a7099284453681548c778048a75cb88"
+  },
+  {
+    "path": "capooplay/capooplay/images/13.png",
+    "hash": "bc59174934d6a9cc784629d2bba88b00"
+  },
+  {
+    "path": "capooplay/capooplay/images/14.png",
+    "hash": "aa73d0cd790832b6120aff2562046b71"
+  },
+  {
+    "path": "capooplay/capooplay/images/15.png",
+    "hash": "50f5f403ae75a30c7877c3e3c41210b7"
+  },
+  {
+    "path": "capooplay/capooplay/images/16.png",
+    "hash": "d6bd582acecb7476e0f204078db7f322"
+  },
+  {
+    "path": "capooplay/capooplay/images/17.png",
+    "hash": "1fa9e24063240e0556b65b148ec12bd5"
+  },
+  {
+    "path": "capooplay/capooplay/images/2.png",
+    "hash": "55460aa2d0072934d262621019a00695"
+  },
+  {
+    "path": "capooplay/capooplay/images/3.png",
+    "hash": "5ee8df5a374159047d8a837d99228316"
+  },
+  {
+    "path": "capooplay/capooplay/images/4.png",
+    "hash": "3bd4520ec5e5af545a55a4d96d62cfb2"
+  },
+  {
+    "path": "capooplay/capooplay/images/5.png",
+    "hash": "adcfd029b54621729d62895d6c77b833"
+  },
+  {
+    "path": "capooplay/capooplay/images/6.png",
+    "hash": "0a7099284453681548c778048a75cb88"
+  },
+  {
+    "path": "capooplay/capooplay/images/7.png",
+    "hash": "475487cce26a20e665d0d23d9671c456"
+  },
+  {
+    "path": "capooplay/capooplay/images/8.png",
+    "hash": "eb0ddfe51222ddc4625fe18f1e3d83ad"
+  },
+  {
+    "path": "capooplay/capooplay/images/9.png",
+    "hash": "5d0a9a2b981c6226bd365ad70278530a"
+  },
+  {
     "path": "capoozhao/images/0.png",
     "hash": "f0b99f9722cb4e2088f805c98777d072"
   },
@@ -2826,6 +2898,82 @@
   {
     "path": "dont_touch/images/mask.png",
     "hash": "5b3ffca1b7a588a02d2dc4939cd6d31f"
+  },
+  {
+    "path": "doroti/images/0.png",
+    "hash": "7caf2ea7be5d6df0b56be4d9c7b17951"
+  },
+  {
+    "path": "doroti/images/1.png",
+    "hash": "bc5b777ee9994e58a0ad5ab9f0db66aa"
+  },
+  {
+    "path": "doroti/images/10.png",
+    "hash": "536191676c39ce498eead10393a8e66d"
+  },
+  {
+    "path": "doroti/images/11.png",
+    "hash": "9491edc2559ac23534bcb1379e77dc10"
+  },
+  {
+    "path": "doroti/images/12.png",
+    "hash": "ca61f9c3f72b04b10c4c1131b6323513"
+  },
+  {
+    "path": "doroti/images/13.png",
+    "hash": "5dbb5dd3179bd4ead0c0c85fa99b65ac"
+  },
+  {
+    "path": "doroti/images/14.png",
+    "hash": "ccfc841c40e3bf11c2ad9ed5e9932b52"
+  },
+  {
+    "path": "doroti/images/15.png",
+    "hash": "fb53fb223114c99515f98ac9f6680bd4"
+  },
+  {
+    "path": "doroti/images/16.png",
+    "hash": "8a9b4350742767f8aa00d913c890812c"
+  },
+  {
+    "path": "doroti/images/17.png",
+    "hash": "9da2285a1ef1e859ee6356d6afe06515"
+  },
+  {
+    "path": "doroti/images/18.png",
+    "hash": "f7de3e8fc58eddb652efe270a54c20c0"
+  },
+  {
+    "path": "doroti/images/2.png",
+    "hash": "990f7e2c8fcaf996c773a1bf535e53f9"
+  },
+  {
+    "path": "doroti/images/3.png",
+    "hash": "a523c2b2cf1c7fce1ad46bb0b9f2a5e2"
+  },
+  {
+    "path": "doroti/images/4.png",
+    "hash": "3e5709e15c1763785809c18c70bf76d5"
+  },
+  {
+    "path": "doroti/images/5.png",
+    "hash": "e5c578d56b2603ea9e1533d7c1698c32"
+  },
+  {
+    "path": "doroti/images/6.png",
+    "hash": "a805768b5032a1255060a682789d3cda"
+  },
+  {
+    "path": "doroti/images/7.png",
+    "hash": "6cf2ab3c79d4187fb7b8b189d6365ffd"
+  },
+  {
+    "path": "doroti/images/8.png",
+    "hash": "81f5bf686f8f3d2c861895e59864524e"
+  },
+  {
+    "path": "doroti/images/9.png",
+    "hash": "b55868f136b8570e80ea9d1b9584322a"
   },
   {
     "path": "dorotuodi/images/0.png",
@@ -11650,6 +11798,250 @@
   {
     "path": "spider/images/9.png",
     "hash": "74b2e10d62289eaf004fc9e67d31e88d"
+  },
+  {
+    "path": "spike_spinebuster/images/0.png",
+    "hash": "ff9c5bbbae9252d5812900861b183846"
+  },
+  {
+    "path": "spike_spinebuster/images/1.png",
+    "hash": "1d81dc75516cda2635e36d61cc743119"
+  },
+  {
+    "path": "spike_spinebuster/images/10.png",
+    "hash": "bd840648a66f4166e280f9521b9b05ff"
+  },
+  {
+    "path": "spike_spinebuster/images/11.png",
+    "hash": "4078e5b6538cc814719a5e1f9609cc9a"
+  },
+  {
+    "path": "spike_spinebuster/images/12.png",
+    "hash": "f32f07505cf4724be908376f2da24ede"
+  },
+  {
+    "path": "spike_spinebuster/images/13.png",
+    "hash": "d7f14b9b686febaea906f1fc8d1efc8b"
+  },
+  {
+    "path": "spike_spinebuster/images/14.png",
+    "hash": "f78595526ae733e7ca455e26246e01bc"
+  },
+  {
+    "path": "spike_spinebuster/images/15.png",
+    "hash": "2130dbb409e4b300a1434b1b044f28d9"
+  },
+  {
+    "path": "spike_spinebuster/images/16.png",
+    "hash": "bf10d911fb0f4db5478eeff7c1a893f9"
+  },
+  {
+    "path": "spike_spinebuster/images/17.png",
+    "hash": "64aa01747eb2c9e506113ddf0d165733"
+  },
+  {
+    "path": "spike_spinebuster/images/18.png",
+    "hash": "eafcd8bc5f09fffc95f1a4269a678029"
+  },
+  {
+    "path": "spike_spinebuster/images/19.png",
+    "hash": "64c43d5e3653488895468fa8c38a244c"
+  },
+  {
+    "path": "spike_spinebuster/images/2.png",
+    "hash": "1475cf9f8bcf086a44d84b72afadfcb0"
+  },
+  {
+    "path": "spike_spinebuster/images/20.png",
+    "hash": "4f58e39b6f932d074da373a94fceef15"
+  },
+  {
+    "path": "spike_spinebuster/images/21.png",
+    "hash": "328ec82c026c1a99edf12debbbdcb1fb"
+  },
+  {
+    "path": "spike_spinebuster/images/22.png",
+    "hash": "e8e37180621340f840f1ff5ae37727c7"
+  },
+  {
+    "path": "spike_spinebuster/images/23.png",
+    "hash": "ba449522d09b620aa8ec3ffbbe574625"
+  },
+  {
+    "path": "spike_spinebuster/images/24.png",
+    "hash": "01402d7a1e8e00e1b1ba01261ef0d017"
+  },
+  {
+    "path": "spike_spinebuster/images/25.png",
+    "hash": "565c2ab9b6a57ef8af2f9f51fb73224f"
+  },
+  {
+    "path": "spike_spinebuster/images/26.png",
+    "hash": "eaa851406dca558b052d6816e0340e55"
+  },
+  {
+    "path": "spike_spinebuster/images/27.png",
+    "hash": "4f4622013ebc96209a4c33b9edf0b2d7"
+  },
+  {
+    "path": "spike_spinebuster/images/28.png",
+    "hash": "26f17117626d3f11b816f81eb286e64f"
+  },
+  {
+    "path": "spike_spinebuster/images/29.png",
+    "hash": "51c72371328d1d33c111522aa05b59fd"
+  },
+  {
+    "path": "spike_spinebuster/images/3.png",
+    "hash": "21c53ba7558531f0f36ebed94ead7e90"
+  },
+  {
+    "path": "spike_spinebuster/images/30.png",
+    "hash": "db3c9e5bb6e7826b9783e575e869be0a"
+  },
+  {
+    "path": "spike_spinebuster/images/31.png",
+    "hash": "46be3ebcf64e8aa6681af79f60bce1a0"
+  },
+  {
+    "path": "spike_spinebuster/images/32.png",
+    "hash": "ecb087a70f8668641ad525fc6fa2b459"
+  },
+  {
+    "path": "spike_spinebuster/images/33.png",
+    "hash": "0f54fd1f3191349c8d2a186a6030ccd7"
+  },
+  {
+    "path": "spike_spinebuster/images/34.png",
+    "hash": "a9479d6b99371aa2598206fe82852ab4"
+  },
+  {
+    "path": "spike_spinebuster/images/35.png",
+    "hash": "a7f8caf1a4ab94da8344882f9d5d3f4c"
+  },
+  {
+    "path": "spike_spinebuster/images/36.png",
+    "hash": "9570870dd22954649571fc66716a96bb"
+  },
+  {
+    "path": "spike_spinebuster/images/37.png",
+    "hash": "dae2ab65693da8e5cdb452670e0806db"
+  },
+  {
+    "path": "spike_spinebuster/images/38.png",
+    "hash": "9ac25c12006c160588f2b4149b27b080"
+  },
+  {
+    "path": "spike_spinebuster/images/39.png",
+    "hash": "471c47e03782fb7f2708b98297860f93"
+  },
+  {
+    "path": "spike_spinebuster/images/4.png",
+    "hash": "7d5dd39dcc64fe82a663cd0e57b54f36"
+  },
+  {
+    "path": "spike_spinebuster/images/40.png",
+    "hash": "864079459a04c2394dff0aaa8a6d013b"
+  },
+  {
+    "path": "spike_spinebuster/images/41.png",
+    "hash": "71ceafcc63e0619142e0c5a6fb01d2e9"
+  },
+  {
+    "path": "spike_spinebuster/images/42.png",
+    "hash": "ec33349af3ae8e2669c8d3eb363910a4"
+  },
+  {
+    "path": "spike_spinebuster/images/43.png",
+    "hash": "44930807d27b4d701e376bd4d09cbc96"
+  },
+  {
+    "path": "spike_spinebuster/images/44.png",
+    "hash": "db799d6dca49063b7c04dcb77e17aa51"
+  },
+  {
+    "path": "spike_spinebuster/images/45.png",
+    "hash": "f046292d0808a151d0babf9fdc9a6d23"
+  },
+  {
+    "path": "spike_spinebuster/images/46.png",
+    "hash": "3eac505485e47f770903ac9cc794dd9d"
+  },
+  {
+    "path": "spike_spinebuster/images/47.png",
+    "hash": "7c1ee1208dd8099ceacfb201f0aae944"
+  },
+  {
+    "path": "spike_spinebuster/images/48.png",
+    "hash": "781e6fdb11b5f0b9140471ffa753454f"
+  },
+  {
+    "path": "spike_spinebuster/images/49.png",
+    "hash": "53ef94d37d3d5e217cdea61716da138a"
+  },
+  {
+    "path": "spike_spinebuster/images/5.png",
+    "hash": "e9fa6dfca0bf95d20c439ab404f08a96"
+  },
+  {
+    "path": "spike_spinebuster/images/50.png",
+    "hash": "233fe6b13795f1eb249a0a4772a395fc"
+  },
+  {
+    "path": "spike_spinebuster/images/51.png",
+    "hash": "d3e85e7b6b5d64ecd133929caed490d5"
+  },
+  {
+    "path": "spike_spinebuster/images/52.png",
+    "hash": "97548275f231ecc66ba15bdcf9b5fbbc"
+  },
+  {
+    "path": "spike_spinebuster/images/53.png",
+    "hash": "edab26122db3329f8a3b20b55d933276"
+  },
+  {
+    "path": "spike_spinebuster/images/54.png",
+    "hash": "94b77fe9208a25f30681746f497cbe62"
+  },
+  {
+    "path": "spike_spinebuster/images/55.png",
+    "hash": "3116750b18783cb470085d5258f968e7"
+  },
+  {
+    "path": "spike_spinebuster/images/56.png",
+    "hash": "f7183ba0749570351ee94abbea780724"
+  },
+  {
+    "path": "spike_spinebuster/images/57.png",
+    "hash": "def6db4779a5bf5883f4a57f7137bbf7"
+  },
+  {
+    "path": "spike_spinebuster/images/58.png",
+    "hash": "28a320c211e2d90f69f47844d21b39f8"
+  },
+  {
+    "path": "spike_spinebuster/images/59.png",
+    "hash": "09ccb4c337740385e7c3047bfdb9d619"
+  },
+  {
+    "path": "spike_spinebuster/images/6.png",
+    "hash": "d230a1937632376414765d17e5cdb4ff"
+  },
+  {
+    "path": "spike_spinebuster/images/60.png",
+    "hash": "9801df18de725834ab3bb60e0b3cf08a"
+  },
+  {
+    "path": "spike_spinebuster/images/7.png",
+    "hash": "f5adfed22640481f62d613b2e85296a3"
+  },
+  {
+    "path": "spike_spinebuster/images/8.png",
+    "hash": "2916d1ed68651f16667e93012fa5260d"
+  },
+  {
+    "path": "spike_spinebuster/images/9.png",
+    "hash": "4ada0da248ec2646f4c23051f2bd2b32"
   },
   {
     "path": "spinner/images/0.png",

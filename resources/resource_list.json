@@ -964,6 +964,78 @@
     "hash": "5d0a9a2b981c6226bd365ad70278530a"
   },
   {
+    "path": "capooplay/images/0.png",
+    "hash": "5ebded92a8e542fcfab4bdc1feadc634"
+  },
+  {
+    "path": "capooplay/images/1.png",
+    "hash": "c3e4acfe2a83318e071151ffa1b816eb"
+  },
+  {
+    "path": "capooplay/images/10.png",
+    "hash": "3bd4520ec5e5af545a55a4d96d62cfb2"
+  },
+  {
+    "path": "capooplay/images/11.png",
+    "hash": "9f00397e0e450f5f7cf30a376b50b50e"
+  },
+  {
+    "path": "capooplay/images/12.png",
+    "hash": "0a7099284453681548c778048a75cb88"
+  },
+  {
+    "path": "capooplay/images/13.png",
+    "hash": "bc59174934d6a9cc784629d2bba88b00"
+  },
+  {
+    "path": "capooplay/images/14.png",
+    "hash": "aa73d0cd790832b6120aff2562046b71"
+  },
+  {
+    "path": "capooplay/images/15.png",
+    "hash": "50f5f403ae75a30c7877c3e3c41210b7"
+  },
+  {
+    "path": "capooplay/images/16.png",
+    "hash": "d6bd582acecb7476e0f204078db7f322"
+  },
+  {
+    "path": "capooplay/images/17.png",
+    "hash": "1fa9e24063240e0556b65b148ec12bd5"
+  },
+  {
+    "path": "capooplay/images/2.png",
+    "hash": "55460aa2d0072934d262621019a00695"
+  },
+  {
+    "path": "capooplay/images/3.png",
+    "hash": "5ee8df5a374159047d8a837d99228316"
+  },
+  {
+    "path": "capooplay/images/4.png",
+    "hash": "3bd4520ec5e5af545a55a4d96d62cfb2"
+  },
+  {
+    "path": "capooplay/images/5.png",
+    "hash": "adcfd029b54621729d62895d6c77b833"
+  },
+  {
+    "path": "capooplay/images/6.png",
+    "hash": "0a7099284453681548c778048a75cb88"
+  },
+  {
+    "path": "capooplay/images/7.png",
+    "hash": "475487cce26a20e665d0d23d9671c456"
+  },
+  {
+    "path": "capooplay/images/8.png",
+    "hash": "eb0ddfe51222ddc4625fe18f1e3d83ad"
+  },
+  {
+    "path": "capooplay/images/9.png",
+    "hash": "5d0a9a2b981c6226bd365ad70278530a"
+  },
+  {
     "path": "capoozhao/images/0.png",
     "hash": "f0b99f9722cb4e2088f805c98777d072"
   },
@@ -14684,6 +14756,106 @@
     "hash": "c78643596cbaf831e675134a28c3c132"
   },
   {
+    "path": "yesirmiao/images/0.png",
+    "hash": "a07f727443d650adc1dccb4858ceb78d"
+  },
+  {
+    "path": "yesirmiao/images/1.png",
+    "hash": "e703c076fc9020b9585b2570aee913bb"
+  },
+  {
+    "path": "yesirmiao/images/10.png",
+    "hash": "cf76cabc111f99dc512b0a140455abe3"
+  },
+  {
+    "path": "yesirmiao/images/11.png",
+    "hash": "69bf38ba9e24c282136cb35e85c1869d"
+  },
+  {
+    "path": "yesirmiao/images/12.png",
+    "hash": "f6234179bdb21988e9e57f1021e42940"
+  },
+  {
+    "path": "yesirmiao/images/13.png",
+    "hash": "1b95c4da9316a1029bf71d3dbc51e88c"
+  },
+  {
+    "path": "yesirmiao/images/14.png",
+    "hash": "ac7df26007f0a5451c9bbb43ae19acf2"
+  },
+  {
+    "path": "yesirmiao/images/15.png",
+    "hash": "066984836b1bcee7886073a3f352cc1f"
+  },
+  {
+    "path": "yesirmiao/images/16.png",
+    "hash": "f9898aef1833eb0e02cf3afa40875fdc"
+  },
+  {
+    "path": "yesirmiao/images/17.png",
+    "hash": "2fa4ac99abc6a0d89b635978bf51ad83"
+  },
+  {
+    "path": "yesirmiao/images/18.png",
+    "hash": "f068b15b6f15e3baf9e5d3a871fc7289"
+  },
+  {
+    "path": "yesirmiao/images/19.png",
+    "hash": "66dafd24ea5cfde42bc9aadd485c4bb6"
+  },
+  {
+    "path": "yesirmiao/images/2.png",
+    "hash": "25cf9fcc813b8d2997a0c000c4614304"
+  },
+  {
+    "path": "yesirmiao/images/20.png",
+    "hash": "ee0e043e0eb4abb53db92f581e28878c"
+  },
+  {
+    "path": "yesirmiao/images/21.png",
+    "hash": "319a6ad6d05b023d22151c1caa6ea301"
+  },
+  {
+    "path": "yesirmiao/images/22.png",
+    "hash": "65bb7dfa4d4e9df9d8ab9f3fb431cf6a"
+  },
+  {
+    "path": "yesirmiao/images/23.png",
+    "hash": "9ff73148251090d9f856422efeffe040"
+  },
+  {
+    "path": "yesirmiao/images/24.png",
+    "hash": "53cb9d85a6cda831674002f2a83aa070"
+  },
+  {
+    "path": "yesirmiao/images/3.png",
+    "hash": "1b3be48cbea70f8014553ac325156e92"
+  },
+  {
+    "path": "yesirmiao/images/4.png",
+    "hash": "d9bd5ecfa280a0eb21f2fd73fc5309c6"
+  },
+  {
+    "path": "yesirmiao/images/5.png",
+    "hash": "c04a7702edd0ff489a86faabf040db1f"
+  },
+  {
+    "path": "yesirmiao/images/6.png",
+    "hash": "134838f814276aca0b35597515820573"
+  },
+  {
+    "path": "yesirmiao/images/7.png",
+    "hash": "8dcc9b12fc71197edfde9d8db6e5f699"
+  },
+  {
+    "path": "yesirmiao/images/8.png",
+    "hash": "1c06f2e6bb0d56826453986cb2e41823"
+  },
+  {
+    "path": "yesirmiao/images/9.png",
+    "hash": "4b5fbf61bbc041e541f058073e1b0c79"
+  },
+  {
     "path": "yo_yo/images/0.png",
     "hash": "01d676cb1cd049f08928fc63680d77ee"
   },
@@ -14758,5 +14930,105 @@
   {
     "path": "youzi_question_mark/images/0.png",
     "hash": "0915f8ecd9dfb9edf89d8c84ac09e360"
+  },
+  {
+    "path": "zhuishamiao/images/0.png",
+    "hash": "58c2c8393c513ae6cfe46b39bba143c3"
+  },
+  {
+    "path": "zhuishamiao/images/1.png",
+    "hash": "9b1445ea0ccee0e04b0837834457e547"
+  },
+  {
+    "path": "zhuishamiao/images/10.png",
+    "hash": "2de7e871723cf53204b3fe1ef943d6a1"
+  },
+  {
+    "path": "zhuishamiao/images/11.png",
+    "hash": "19c3eab57db4d022417dfd44d3d7dcd1"
+  },
+  {
+    "path": "zhuishamiao/images/12.png",
+    "hash": "b6408c58cc9c8b6d9afafb4a093c9bb2"
+  },
+  {
+    "path": "zhuishamiao/images/13.png",
+    "hash": "0e109d1ba7ecc726aaa788d918bd66c9"
+  },
+  {
+    "path": "zhuishamiao/images/14.png",
+    "hash": "1fa8333bffd8c129484bbffbfe402d1d"
+  },
+  {
+    "path": "zhuishamiao/images/15.png",
+    "hash": "8f4a71a5f6c31df441d6bd8b8ad57849"
+  },
+  {
+    "path": "zhuishamiao/images/16.png",
+    "hash": "7cf038c84de2f730ac5a5c870bc3520f"
+  },
+  {
+    "path": "zhuishamiao/images/17.png",
+    "hash": "2a95ebcbee6838ee6bb81d612d701ac0"
+  },
+  {
+    "path": "zhuishamiao/images/18.png",
+    "hash": "550281ad812c2d1e5dc2b284b68f09c9"
+  },
+  {
+    "path": "zhuishamiao/images/19.png",
+    "hash": "9f80c57268bf8c879729ffe43bc91afe"
+  },
+  {
+    "path": "zhuishamiao/images/2.png",
+    "hash": "f78abf732fbb21a6b8998d5c0e4f107d"
+  },
+  {
+    "path": "zhuishamiao/images/20.png",
+    "hash": "36fce09db55c3eb0ed4de799d7c53c99"
+  },
+  {
+    "path": "zhuishamiao/images/21.png",
+    "hash": "d0ef19f218500b474a0f443b36fff251"
+  },
+  {
+    "path": "zhuishamiao/images/22.png",
+    "hash": "9981c66cd143892fef581a164cfbeb85"
+  },
+  {
+    "path": "zhuishamiao/images/23.png",
+    "hash": "a0d4a82f74a4bf90afeb76f62c59b0b7"
+  },
+  {
+    "path": "zhuishamiao/images/24.png",
+    "hash": "167ae63fb1193cdba38a0763b08f8fd4"
+  },
+  {
+    "path": "zhuishamiao/images/3.png",
+    "hash": "95623fd687c9344b5e859e13f403e967"
+  },
+  {
+    "path": "zhuishamiao/images/4.png",
+    "hash": "c6ce5e450a8acd21d748b7bdd4345462"
+  },
+  {
+    "path": "zhuishamiao/images/5.png",
+    "hash": "1923814235a1620d71333333ebd0731b"
+  },
+  {
+    "path": "zhuishamiao/images/6.png",
+    "hash": "abb7bc15b5b47e080428b3590a013cc6"
+  },
+  {
+    "path": "zhuishamiao/images/7.png",
+    "hash": "92392c2948c026063108ea57cbea186d"
+  },
+  {
+    "path": "zhuishamiao/images/8.png",
+    "hash": "f1af6617a09f56f438c9e48cf6ca69a9"
+  },
+  {
+    "path": "zhuishamiao/images/9.png",
+    "hash": "adfb8d61864859adcb33fec0eba4b7be"
   }
 ]

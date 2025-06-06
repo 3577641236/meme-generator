@@ -44,6 +44,7 @@ jobs:
         with:
           repository: ${{ github.repository }}.wiki
           path: wiki
+          fetch-depth: 0
 
       - name: 设置 Python 环境
         uses: actions/setup-python@v5
@@ -58,7 +59,7 @@ jobs:
 
       - name: 安装字体
         run: |
-          sudo apt install fonts-noto-color-emoji libgl1 libglx-mesa0 libgl1-mesa-dri
+          sudo apt install fonts-noto-color-emoji libegl1 libgl1 libglx-mesa0 libgl1-mesa-dri
           sudo mkdir /usr/share/fonts/myfonts
           sudo cp resources/fonts/* /usr/share/fonts/myfonts/
           fc-cache -fv

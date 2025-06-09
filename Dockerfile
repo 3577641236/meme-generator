@@ -7,7 +7,8 @@ RUN apt update && \
     apt install --no-install-recommends -y \
     curl \
     libgl1 \
-    libegl1-mesa \
+    libegl1 \
+    libglx-mesa0  \
     fontconfig \
     gettext \
     ca-certificates \

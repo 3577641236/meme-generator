@@ -1,8 +1,7 @@
 from datetime import datetime
 from pathlib import Path
 
-from pil_utils import BuildImage, Text2Image
-from PIL.Image import Image as IMG
+from pil_utils import BuildImage
 
 from meme_generator import add_meme, MemeArgsModel, MemeArgsType, ParserArg, ParserOption
 from meme_generator.exception import TextOverLength
@@ -26,21 +25,29 @@ args_type = MemeArgsType(
     ],
 )
 
-def qunyoujupai(images: list[BuildImage], texts: list[str], args):
+def member_holdsign(images: list[BuildImage], texts: list[str], args):
     # 处理用户名
     name = args.name
     if not name:
         name = "晓楠嬢"  # 默认用户名
     if len(name) > 8:
         name = name[:8]  # 限制用户名字数为8个字以内
-    name_length = len(name)
-    font_size = 72
-    name_img = Text2Image.from_text(name, font_size, fill="#1b1b1b").to_image()
     
     img = images[0].convert("RGBA").circle().resize((200, 200))
     text = texts[0]
     frame = BuildImage.open(img_dir / "0.png")
-    try:        
+    try:     
+        
+        frame.draw_text(
+            (0, 26, frame.width, 106),
+            name,
+            fill="#1b1b1b",
+            max_fontsize=72,
+            min_fontsize=30,
+            lines_align="center",
+            font_families=["FZSJ-QINGCRJ"],
+        )   
+        
         frame.draw_text(
             (136, 385, 494, 546),
             text,
@@ -51,11 +58,8 @@ def qunyoujupai(images: list[BuildImage], texts: list[str], args):
             lines_align="center",
             font_families=["FZSJ-QINGCRJ"],
         )
-        # 粘贴用户名字
-        text_w, _ = name_img.size
-        x = (frame.width - text_w) // 2  # 居中对齐的x坐标
-        frame.paste(name_img, (x, 26), alpha=True)
-        frame.paste(img, (215, 138), alpha=True)        
+        # 粘贴用用户头像
+        frame.paste(img, (215, 138), alpha=True)      
     except ValueError:
         raise TextOverLength(text)
     
@@ -63,8 +67,8 @@ def qunyoujupai(images: list[BuildImage], texts: list[str], args):
 
 
 add_meme(
-    "qunyoujupai",
-    qunyoujupai,
+    "member_holdsign",
+    member_holdsign,
     min_images=1,
     max_images=1,
     min_texts=1,

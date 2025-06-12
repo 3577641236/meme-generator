@@ -6988,6 +6988,10 @@
     "hash": "b118fe27aec8b9b05fe73cb8c942726e"
   },
   {
+    "path": "member_holdsign/images/0.png",
+    "hash": "a83b85f6add44d9d4a6c6d0622160d23"
+  },
+  {
     "path": "meteor/images/0.png",
     "hash": "16a32e5a514c4355a164afb05d510fb6"
   },
@@ -11626,10 +11630,6 @@
   {
     "path": "qi/images/2.png",
     "hash": "3ae0a938032e1c88a10ca38b51332ac6"
-  },
-  {
-    "path": "qunyoujupai/images/0.png",
-    "hash": "a83b85f6add44d9d4a6c6d0622160d23"
   },
   {
     "path": "raise_image/images/raise_image.png",

@@ -240,6 +240,10 @@
     "hash": "2ff39cce2457ab7cc47bf500f78e16c5"
   },
   {
+    "path": "baby/images/0.png",
+    "hash": "c544338bfd740010b0b07e7d3390918f"
+  },
+  {
     "path": "back_to_work/images/0.png",
     "hash": "d85cf009fac3ce49ed90883e0c61e737"
   },
@@ -4880,6 +4884,10 @@
     "hash": "fa99a2c0fd32fc12b53c29b34ecfdc5b"
   },
   {
+    "path": "handwriting/images/0.jpg",
+    "hash": "c1cb2c46a7108599d44a566f809c786d"
+  },
+  {
     "path": "haruhi_raise/images/0.png",
     "hash": "87b2132f62cb142cdfbdfe910448ab7d"
   },
@@ -6220,6 +6228,10 @@
     "hash": "7905406e5759a29c2fb3a308688123cd"
   },
   {
+    "path": "kurogames_cartethyia_say/images/0.jpg",
+    "hash": "600192bdfaa729618ac2755c22a797fe"
+  },
+  {
     "path": "kurogames_changli_finger/images/0.png",
     "hash": "ee74d3b4adbc1a78095b493d19c2600b"
   },
@@ -6264,6 +6276,10 @@
     "hash": "a5dcac55ed7334643305153e628f0243"
   },
   {
+    "path": "kurogames_songlun_say/images/0.jpg",
+    "hash": "2e4d789cb6d2093b28d45795e38e055d"
+  },
+  {
     "path": "kurogames_the_shorekeeper_holdsign/images/0.jpg",
     "hash": "3717a2c1c02413e6e0e7d55e302a4d85"
   },
@@ -6274,6 +6290,14 @@
   {
     "path": "kurogames_verina_holdsign/images/backup.png",
     "hash": "839cb55a023a2dc144e2128bd6bf66ae"
+  },
+  {
+    "path": "kurogames_yangyang_holdsign/images/0.jpg",
+    "hash": "8ca255976d2608e40bf8ab4f63c7b15e"
+  },
+  {
+    "path": "kurogames_yangyang_lover/images/0.png",
+    "hash": "8f671b2d6d0388056383f81a5d751473"
   },
   {
     "path": "kurogames_zhezhi_holdsign/images/0.png",

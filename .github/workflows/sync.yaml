@@ -57,7 +57,14 @@ jobs:
           message: "同步表情更新"
           branch: ${{ github.ref }}
 
-      - name: 触发工作流
+      - name: 触发docker构建
         uses: benc-uk/workflow-dispatch@v1
         with:
           workflow: docker.yaml
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: 触发update构建
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: update.yaml
+          token: ${{ secrets.GH_TOKEN }}

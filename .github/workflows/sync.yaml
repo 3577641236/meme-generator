@@ -1,0 +1,47 @@
+name: 同步表情仓库
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: 检出memes_jj仓库代码
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          repository: jinjiao007/meme-generator-jj
+          path: ${{ runner.temp }}/memes_jj
+
+      - name: 检出memes_emoji仓库代码
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          repository: anyliew/meme_emoji
+          path: ${{ runner.temp }}/memes_emoji
+
+      - name: 清理数据并同步
+        shell: bash
+        run: |
+          rm -rf meme_generator/memes_jj/!(README.md)
+          rm -rf meme_generator/memes_emoji/!(README.md)
+          cp -r ${{ runner.temp }}/memes_jj/memes/* meme_generator/memes_jj/
+          cp -r ${{ runner.temp }}/memes_emoji/emoji/* meme_generator/memes_emoji/
+
+      - name: 提交并推送更改
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: "同步表情更新"
+          branch: "main"

@@ -6,6 +6,9 @@ on:
       - "main"
     paths:
       - "meme_generator/memes/**"
+      - "meme_generator/memes_jj/**"
+      - "meme_generator/memes_emoji/**"
+      - "meme_generator/memes_other/**"
   workflow_dispatch:
 
 permissions:

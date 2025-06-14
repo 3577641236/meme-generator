@@ -15,7 +15,14 @@ jobs:
       - name: 检出仓库代码
         uses: actions/checkout@v4
         with:
-          ref: main
+          ref: ${{ github.ref }}
+
+      - name: 检出memes仓库代码
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          repository: jinjiao007/meme-generator-jj
+          path: ${{ runner.temp }}/meme
 
       - name: 检出memes_jj仓库代码
         uses: actions/checkout@v4
@@ -34,8 +41,10 @@ jobs:
       - name: 清理数据并同步
         shell: bash
         run: |
+          rm -rf meme_generator/memes/*
           rm -rf meme_generator/memes_jj/!(README.md)
           rm -rf meme_generator/memes_emoji/!(README.md)
+          cp -r ${{ runner.temp }}/memes_jj/meme/meme_generator/memes/* meme_generator/memes/
           cp -r ${{ runner.temp }}/memes_jj/memes/* meme_generator/memes_jj/
           cp -r ${{ runner.temp }}/memes_emoji/emoji/* meme_generator/memes_emoji/
 
@@ -44,4 +53,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           message: "同步表情更新"
-          branch: "main"
+          branch: ${{ github.ref }}

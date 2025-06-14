@@ -28,20 +28,20 @@ _✨ 表情包生成器，用于制作各种沙雕表情包 ✨_
 
 > [!NOTE]
 > 本项目另有 Rust 重构版 [--> meme-generator-rs <--](https://github.com/MemeCrafters/meme-generator-rs)
-> 
+>
 > 拥有更小的内存占用和更快的运行速度，欢迎使用！
 
 ## 表情列表
 
-表情详细信息、表情预览等可以在 [--> 表情列表 <--](https://github.com/MemeCrafters/meme-generator/wiki/%E8%A1%A8%E6%83%85%E5%88%97%E8%A1%A8) 查看
+表情详细信息、表情预览等可以在 [--> 表情列表 <--](https://github.com/Memes02/meme-generator/wiki/%E8%A1%A8%E6%83%85%E5%88%97%E8%A1%A8) 查看
 
 ## 安装、使用、配置
 
-详见 Wiki：[--> Wiki <--](https://github.com/MemeCrafters/meme-generator/wiki)
+详见 Wiki：[--> Wiki <--](https://github.com/Memes02/meme-generator/wiki)
 
 ## 开发
 
-如果希望编写、贡献新的表情，可以参考 [--> 新表情编写指北 <--](https://github.com/MemeCrafters/meme-generator/wiki/%E6%96%B0%E8%A1%A8%E6%83%85%E7%BC%96%E5%86%99%E6%8C%87%E5%8C%97)
+如果希望编写、贡献新的表情，可以参考 [--> 新表情编写指北 <--](https://github.com/Memes02/meme-generator/wiki/%E6%96%B0%E8%A1%A8%E6%83%85%E7%BC%96%E5%86%99%E6%8C%87%E5%8C%97)
 
 对于一些不适合放在主仓库的表情，可以提交至 [--> 额外表情仓库 <--](https://github.com/MemeCrafters/meme-generator-contrib)
 
@@ -61,10 +61,10 @@ _✨ 表情包生成器，用于制作各种沙雕表情包 ✨_
 
 部分表情素材或代码参考了以下项目，感谢这些项目的开发者们
 
-- [Ailitonia/omega-miya](https://github.com/Ailitonia/omega-miya) 基于nonebot2的qq机器人
+- [Ailitonia/omega-miya](https://github.com/Ailitonia/omega-miya) 基于 nonebot2 的 qq 机器人
 - [FloatTech/ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) 基于 ZeroBot 的 OneBot 插件
-- [HibiKier/zhenxun_bot](https://github.com/HibiKier/zhenxun_bot) 基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot
-- [SAGIRI-kawaii/sagiri-bot](https://github.com/SAGIRI-kawaii/sagiri-bot) 基于Graia Ariadne和Mirai的QQ机器人 SAGIRI-BOT
-- [Dituon/petpet](https://github.com/Dituon/petpet) Mirai插件 生成各种奇怪的图片
+- [HibiKier/zhenxun_bot](https://github.com/HibiKier/zhenxun_bot) 基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻 bot
+- [SAGIRI-kawaii/sagiri-bot](https://github.com/SAGIRI-kawaii/sagiri-bot) 基于 Graia Ariadne 和 Mirai 的 QQ 机器人 SAGIRI-BOT
+- [Dituon/petpet](https://github.com/Dituon/petpet) Mirai 插件 生成各种奇怪的图片
 - [kexue-z/nonebot-plugin-nokia](https://github.com/kexue-z/nonebot-plugin-nokia) 诺基亚手机图生成
 - [RafuiiChan/nonebot_plugin_charpic](https://github.com/RafuiiChan/nonebot_plugin_charpic) 字符画生成插件

@@ -6981,7 +6981,7 @@
   },
   {
     "path": "mihoyo_liuwei_holdsign/images/0.jpg",
-    "hash": "43ca17232ed798b05416856e048e571c"
+    "hash": "5de58c33954c56d27437ba3274f0a7d3"
   },
   {
     "path": "mihoyo_lynette_holdsign/images/0.png",
@@ -7066,6 +7066,18 @@
   {
     "path": "mix_dog/images/7.png",
     "hash": "0974e4e250c7704e5edee5b48aa656b8"
+  },
+  {
+    "path": "mixue/images/0.png",
+    "hash": "5e8c44cd45dddfa7af5c38ea50b74ff6"
+  },
+  {
+    "path": "mixue_jasmine_milk_green/images/0.png",
+    "hash": "b1c7eb23898c14e01ba427066d430cb7"
+  },
+  {
+    "path": "mixue_stick_beaten_fresh_orange/images/0.png",
+    "hash": "365d61bd45f7ae52a9cd2bf3da72b6d6"
   },
   {
     "path": "mourning/images/0.png",
@@ -15730,6 +15742,10 @@
   {
     "path": "yuzu_soft_murasame_husband/images/0.png",
     "hash": "442a223d4c4e6179d252663e6d0a7aad"
+  },
+  {
+    "path": "yuzu_soft_murasame_ipad/images/0.png",
+    "hash": "2c7a41db47995227d9360d7deb9aa8d9"
   },
   {
     "path": "yuzu_soft_murasame_like/images/0.png",

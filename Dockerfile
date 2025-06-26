@@ -13,6 +13,7 @@ RUN apt update && \
     gettext \
     ca-certificates \
     fonts-noto-color-emoji \
+    libegl1-mesa \
     python3 && \
     rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* && \
     apt-get clean all
@@ -46,6 +47,8 @@ RUN fc-cache -fv && \
     chmod +x /app/start.sh
 RUN poetry install
 
-EXPOSE $PORT
+#  测试运行
+RUN poetry run meme 
+
 CMD ["sh", "/app/start.sh"]
 

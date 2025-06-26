@@ -62,7 +62,7 @@ jobs:
 
       - name: 安装字体
         run: |
-          sudo apt install fonts-noto-color-emoji libegl1 libgl1 libglx-mesa0 libgl1-mesa-dri
+          sudo apt install fonts-noto-color-emoji libegl1 libgl1 libglx-mesa0 libgl1-mesa-dri libegl1-mesa
           sudo mkdir /usr/share/fonts/myfonts
           sudo cp resources/fonts/* /usr/share/fonts/myfonts/
           fc-cache -fv

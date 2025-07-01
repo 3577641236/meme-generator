@@ -2084,6 +2084,10 @@
     "hash": "066feeaf1eb37ace405820657eaf6b58"
   },
   {
+    "path": "cockroaches/images/0.png",
+    "hash": "885be74e48118ecf53b6627271d4f685"
+  },
+  {
     "path": "confuse/images/0.png",
     "hash": "4758c555242fb3b8f3f7426e575dde95"
   },
@@ -3374,6 +3378,10 @@
   {
     "path": "downban/images/0.png",
     "hash": "75171dc93d1684a43399e7c8f6eff233"
+  },
+  {
+    "path": "drumstick/images/0.png",
+    "hash": "4776397254a4e4fcda61acacf997bf42"
   },
   {
     "path": "duidi/images/0.png",
@@ -6196,6 +6204,10 @@
     "hash": "03bdfd7f977a2988a628ee3e946eae74"
   },
   {
+    "path": "kurogames_phrolova_holdsign/images/0.jpg",
+    "hash": "9e203ddc2cc566fa95ee9e88869e4fa3"
+  },
+  {
     "path": "kurogames_phrolova_say/images/0.jpg",
     "hash": "d9ae15f49d49b75812c646b6d45b2f62"
   },
@@ -7048,6 +7060,10 @@
     "hash": "c1622fa0c8b559114db863c90ead291f"
   },
   {
+    "path": "mihoyo_hutao_holdsign/images/0.jpg",
+    "hash": "549e5a6bdb14bde3d535a7b6dce59d17"
+  },
+  {
     "path": "mihoyo_kaveh_frame/images/0.png",
     "hash": "7ae66f5968ee22287bfb6f7fbb563290"
   },
@@ -7082,6 +7098,10 @@
   {
     "path": "mihoyo_lynette_holdsign/images/0.png",
     "hash": "2b93e20e48406ff84a04d88c422e393a"
+  },
+  {
+    "path": "mihoyo_navia_caspar_persuade/images/0.png",
+    "hash": "3983aaa81363913cc2399c24c3e6676b"
   },
   {
     "path": "mihoyo_outlander_frame/images/0.png",
@@ -7126,6 +7146,10 @@
   {
     "path": "mihoyo_yanfei_frame/images/0.png",
     "hash": "b18594a8e2ef8f8c1488435f860e98ae"
+  },
+  {
+    "path": "mihoyo_yelan_phone/images/0.png",
+    "hash": "10ffc3a7762a7fd6ae0fbbe6bf42de0c"
   },
   {
     "path": "miss_in_my_sleep/images/0.png",
@@ -7438,6 +7462,10 @@
   {
     "path": "name_generator/images/title.png",
     "hash": "770526d5d986cceb04c0516ec5e31bd1"
+  },
+  {
+    "path": "naruro_resurrection/images/0.png",
+    "hash": "6a4c6636093e54e2b705f34952d9c25c"
   },
   {
     "path": "naruro_s_ninja/images/0.png",

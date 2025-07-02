@@ -156,6 +156,10 @@
     "hash": "c9350bdb8df94c1c2a4a9b4a67aa4c7c"
   },
   {
+    "path": "atri_holdsign/images/0.jpg",
+    "hash": "3a9fa0b7bad84444df15369f5c3e8bbe"
+  },
+  {
     "path": "atri_like/images/0.png",
     "hash": "bcea875ef74df52e75a50700e9630e3c"
   },
@@ -174,6 +178,10 @@
   {
     "path": "ayachi_holdsign/images/0.png",
     "hash": "2ae9ccb279eaea898e1053e0760a1478"
+  },
+  {
+    "path": "azur_lane_cheshire_thumbs_up/images/0.jpg",
+    "hash": "b1d3bdc5dcb3fc2b210e19f03b25be24"
   },
   {
     "path": "ba_say/images/arisu.png",
@@ -2916,6 +2924,10 @@
     "hash": "e71a7db36dc2cd6011ce60e639fc0be2"
   },
   {
+    "path": "deer_time/images/0.png",
+    "hash": "db8e333e97bd8bd52f9c86a3d5d90216"
+  },
+  {
     "path": "dinosaur/images/0.png",
     "hash": "dc7945042837325b39b70119ae140d66"
   },
@@ -3222,6 +3234,10 @@
   {
     "path": "dont_touch/images/mask.png",
     "hash": "5b3ffca1b7a588a02d2dc4939cd6d31f"
+  },
+  {
+    "path": "doro_thumbs_up/images/0.jpg",
+    "hash": "bf981fc98aa37b8dd582718625b3083c"
   },
   {
     "path": "dorochou/images/0.png",
@@ -6300,6 +6316,10 @@
     "hash": "ad3a04c2da3e8eb0385482e245d02d73"
   },
   {
+    "path": "laughing/images/0.jpg",
+    "hash": "130d1b43455152b9a7199ab13b7daa1a"
+  },
+  {
     "path": "learn/images/0.png",
     "hash": "548f528b25cfab4e79c36f901227cd59"
   },
@@ -7124,6 +7144,10 @@
     "hash": "2c612b5e0eeca5b1649ac8af07b76038"
   },
   {
+    "path": "mihoyo_senior_phone/images/0.png",
+    "hash": "e8f55981aa27279e2749003dcfdcd327"
+  },
+  {
     "path": "mihoyo_shikanoin_heizou_frame/images/0.png",
     "hash": "3c0a3af30f2f0ff9061f373c391b07b5"
   },
@@ -7462,6 +7486,26 @@
   {
     "path": "nahida_bite/images/9.png",
     "hash": "737d6062cd53c0133b361cb2c4543ffc"
+  },
+  {
+    "path": "nakano_lchika/images/0.png",
+    "hash": "f227b40e13081300a0cc7621def7324a"
+  },
+  {
+    "path": "nakano_ltsuki/images/0.png",
+    "hash": "b4dcdb294d63441c1c0d89035113a6e2"
+  },
+  {
+    "path": "nakano_miku/images/0.png",
+    "hash": "26a106700ef18a9c7ccb79be8572500f"
+  },
+  {
+    "path": "nakano_nino/images/0.png",
+    "hash": "08c8128aaca8950005dfbec71c5aa864"
+  },
+  {
+    "path": "nakano_yotsuba/images/0.png",
+    "hash": "ac124d7270efd4614b223bf00052c11f"
   },
   {
     "path": "name_generator/images/title.png",
@@ -8272,6 +8316,10 @@
     "hash": "2ee0fda7d77e0b5d6c6d65e5974c70dc"
   },
   {
+    "path": "pay_to_watch/images/0.png",
+    "hash": "7027894b1f6f25357213c1726de318c8"
+  },
+  {
     "path": "payment_code/images/0.png",
     "hash": "5ad418f72dfe28ddb6747fd001e35bce"
   },
@@ -8612,6 +8660,10 @@
     "hash": "05e0cab304ddbf4b1267fe8a33e2bf6f"
   },
   {
+    "path": "pierrot_plus_head/images/0.png",
+    "hash": "2dd8e6b5398c38188295f8f828d84fd3"
+  },
+  {
     "path": "pigcar/images/0.png",
     "hash": "c7f92d64dc4a3f132d1dd0d2b6a2e4f3"
   },
@@ -8722,6 +8774,10 @@
   {
     "path": "pineapple/images/0.png",
     "hash": "70a5a9acb7e78f405561aedfe2f658c3"
+  },
+  {
+    "path": "pineapples/images/0.png",
+    "hash": "068500e22615289ce36436606c0d61e4"
   },
   {
     "path": "pjsk/images/airi/00.png",
@@ -12426,6 +12482,10 @@
   {
     "path": "sayhi/images/9.png",
     "hash": "00741decc82d0d5b6a9756d68ee78e76"
+  },
+  {
+    "path": "scissor_seven_head/images/0.png",
+    "hash": "31eadfdf2beb1619877244c958b280c1"
   },
   {
     "path": "scratch_head/images/0.png",

@@ -6172,6 +6172,18 @@
     "hash": "e5ba5ab0fd2367a5a19c799f8c91d7a4"
   },
   {
+    "path": "kurogames_abby_write/images/0.jpg",
+    "hash": "bfd9f709364bfddfcf017732c7d3a9d1"
+  },
+  {
+    "path": "kurogames_camellya_holdsign/images/0.jpg",
+    "hash": "f8e9fc13cfff11bf6caa674fa53b4f95"
+  },
+  {
+    "path": "kurogames_camellya_photo/images/0.png",
+    "hash": "b47fc8156fbb40f131a44658bb7f9033"
+  },
+  {
     "path": "kurogames_carlotta_holdsign/images/0.png",
     "hash": "8458b2c1c65150e1c7fc014c5cc8edd8"
   },
@@ -6204,6 +6216,14 @@
     "hash": "0f69c7cac660dd9d2e1f8b6bc7861905"
   },
   {
+    "path": "kurogames_lupa_holdsign/images/0.jpg",
+    "hash": "092dbf498edc73e86f03d61a74884fd7"
+  },
+  {
+    "path": "kurogames_lupa_photo/images/0.png",
+    "hash": "618a52da920b21bb7e666d2c63a5fc4b"
+  },
+  {
     "path": "kurogames_mortefi_holdsign/images/0.png",
     "hash": "71b99f1553025c74593950e6b3f3f8ff"
   },
@@ -6225,6 +6245,10 @@
   },
   {
     "path": "kurogames_phrolova_holdsign/images/0.jpg",
+    "hash": "c37000b55af8b7fed1e12038efcd08f0"
+  },
+  {
+    "path": "kurogames_phrolova_holdsign/images/backup.jpg",
     "hash": "9e203ddc2cc566fa95ee9e88869e4fa3"
   },
   {
@@ -7048,8 +7072,8 @@
     "hash": "b1c6f39c452a757be2cda40037cffd6c"
   },
   {
-    "path": "mihoyo_funina_holdsign/images/0.png",
-    "hash": "9317eda89b69070bef6f8a34b259b5a5"
+    "path": "mihoyo_funina_holdsign/images/0.jpg",
+    "hash": "6c2796e00a08ed3a144e3d2dbbd1da39"
   },
   {
     "path": "mihoyo_funina_round_head/images/0.png",

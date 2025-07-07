@@ -1,0 +1,34 @@
+[meme]
+load_builtin_memes = true
+meme_disabled_list = []
+
+meme_dirs = [
+"/root/meme-generator/meme_generator/memes_emoji",
+"/root/meme-generator/meme_generator/memes_jj",
+"/root/meme-generator/meme_generator/other",
+
+]
+
+[resource]
+resource_urls = [
+  "https://raw.githubusercontent.com/MemeCrafters/meme-generator/",
+  "https://raw.githubusercontent.com/MemeCrafters/meme-generator/",
+  "https://cdn.jsdelivr.net/gh/MemeCrafters/meme-generator@",
+  "https://fastly.jsdelivr.net/gh/MemeCrafters/meme-generator@",
+  "https://raw.gitmirror.com/MemeCrafters/meme-generator/",
+]
+
+[gif]
+gif_max_size = 10.0
+gif_max_frames = 100
+
+[translate]
+baidu_trans_appid = ""
+baidu_trans_apikey = ""
+
+[server]
+host = "0.0.0.0"
+port = 2233
+
+[log]
+log_level = "INFO"

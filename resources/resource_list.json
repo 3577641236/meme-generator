@@ -3236,6 +3236,18 @@
     "hash": "5b3ffca1b7a588a02d2dc4939cd6d31f"
   },
   {
+    "path": "doro_contact/images/0.png",
+    "hash": "170bc987c503b17bf423b86a69c43365"
+  },
+  {
+    "path": "doro_dear/images/0.png",
+    "hash": "55a292d06283415b37c2bed99092b4d7"
+  },
+  {
+    "path": "doro_orange/images/0.png",
+    "hash": "f86343b02d8a2e1ae1e43bce855c3e35"
+  },
+  {
     "path": "doro_thumbs_up/images/0.jpg",
     "hash": "bf981fc98aa37b8dd582718625b3083c"
   },
@@ -6292,6 +6304,10 @@
     "hash": "d9ae15f49d49b75812c646b6d45b2f62"
   },
   {
+    "path": "kurogames_rover_cards/images/0.png",
+    "hash": "e3171e9124beab33c868cbe3a196d899"
+  },
+  {
     "path": "kurogames_rover_head/images/0.png",
     "hash": "afb095ffe88bcaaa80ba41aecd6ba53e"
   },
@@ -6314,6 +6330,10 @@
   {
     "path": "kurogames_the_shorekeeper_holdsign/images/0.jpg",
     "hash": "3717a2c1c02413e6e0e7d55e302a4d85"
+  },
+  {
+    "path": "kurogames_verina_finger/images/0.png",
+    "hash": "2bc9a073e37aa64584b791311c3df748"
   },
   {
     "path": "kurogames_verina_holdsign/images/0.png",
@@ -8252,7 +8272,7 @@
     "hash": "1608ae23ee5925521de188f125416af5"
   },
   {
-    "path": "orange/images/0.png",
+    "path": "orange_head/images/0.png",
     "hash": "8607fd09e803e869d1249b7d3756dc69"
   },
   {

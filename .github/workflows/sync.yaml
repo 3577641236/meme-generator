@@ -52,18 +52,30 @@ jobs:
 
       - name: 提交并推送更改
         uses: actions-js/push@master
+        id: push_changes
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           message: "同步表情更新"
           branch: ${{ github.ref }}
 
+      - name: 检查是否有更新
+        id: check_update
+        run: |
+          if [[ "${{ steps.push_changes.outputs.committed }}" == "true" ]]; then
+            echo "has_update=true" >> $GITHUB_ENV
+          else
+            echo "has_update=false" >> $GITHUB_ENV
+          fi
+
       - name: 触发docker构建
+        if: env.has_update == 'true'
         uses: benc-uk/workflow-dispatch@v1
         with:
           workflow: docker.yaml
           token: ${{ secrets.GH_TOKEN }}
 
       - name: 触发update构建
+        if: env.has_update == 'true'
         uses: benc-uk/workflow-dispatch@v1
         with:
           workflow: update.yaml

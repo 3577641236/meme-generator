@@ -3672,6 +3672,82 @@
     "hash": "6872d94599f73911da0606b28c8be192"
   },
   {
+    "path": "doroqi/images/0.png",
+    "hash": "434774a3b8aa3e9c383b0c4eae69fa74"
+  },
+  {
+    "path": "doroqi/images/1.png",
+    "hash": "ef7d183135705e6256499ae1aeb0a828"
+  },
+  {
+    "path": "doroqi/images/10.png",
+    "hash": "c942509e6c7434b1d542c7963f09f93b"
+  },
+  {
+    "path": "doroqi/images/11.png",
+    "hash": "a8ccfb7514cb90382d3d415ab3a321f5"
+  },
+  {
+    "path": "doroqi/images/12.png",
+    "hash": "41a0a179afe1aad0354d8302f4e9c658"
+  },
+  {
+    "path": "doroqi/images/13.png",
+    "hash": "450de01276ca15467498e8ad453e2296"
+  },
+  {
+    "path": "doroqi/images/14.png",
+    "hash": "7309b28d1b429ae0db7675bdfc997cc0"
+  },
+  {
+    "path": "doroqi/images/15.png",
+    "hash": "65c2d437938fb37775b92f1b586f8c9b"
+  },
+  {
+    "path": "doroqi/images/16.png",
+    "hash": "382020a1a722bc0bdbc1f07f2a8ca4db"
+  },
+  {
+    "path": "doroqi/images/17.png",
+    "hash": "b1788a1b459ce5707396ea4b1e2fe204"
+  },
+  {
+    "path": "doroqi/images/18.png",
+    "hash": "bf96ae9e7de41b7aa5d6243b6bc06341"
+  },
+  {
+    "path": "doroqi/images/2.png",
+    "hash": "646e6371ea1cf8a87b268b639766fc65"
+  },
+  {
+    "path": "doroqi/images/3.png",
+    "hash": "c83de5dca2d0bc6bbb66f12fd251fdb8"
+  },
+  {
+    "path": "doroqi/images/4.png",
+    "hash": "e02880ab9404ceda80393581e35887db"
+  },
+  {
+    "path": "doroqi/images/5.png",
+    "hash": "86476076d30133065d4b47b8afd83db6"
+  },
+  {
+    "path": "doroqi/images/6.png",
+    "hash": "5378d97d22dc2d0058b5598426332d04"
+  },
+  {
+    "path": "doroqi/images/7.png",
+    "hash": "a3775ee56637335f6b218cd1ae31bfb3"
+  },
+  {
+    "path": "doroqi/images/8.png",
+    "hash": "57820ba8e344cdd04a75c5b57098a8d9"
+  },
+  {
+    "path": "doroqi/images/9.png",
+    "hash": "558b767cc32d50599a031d4e4eb2fe54"
+  },
+  {
     "path": "doroti/images/0.png",
     "hash": "7caf2ea7be5d6df0b56be4d9c7b17951"
   },
@@ -7030,6 +7106,10 @@
   {
     "path": "kurogames_iuno_holdsign/images/1.png",
     "hash": "d1d0180d5eb80862f0b01ba12164a604"
+  },
+  {
+    "path": "kurogames_iuno_hug/images/0.png",
+    "hash": "ba7c03e69a3d28c488fbf6086cd3c012"
   },
   {
     "path": "kurogames_iuno_kick/images/1.png",

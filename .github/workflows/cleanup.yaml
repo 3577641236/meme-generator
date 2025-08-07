@@ -1,0 +1,46 @@
+name: 清理Docker Hub标签
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 清理旧标签
+        env:
+          DOCKER_USER: ${{ secrets.DOCKERHUB_USERNAME }}
+          DOCKER_TOKEN: ${{ secrets.DOCKERHUB_TOKEN }}
+          REPO: "lovely02/meme-generator"
+          KEEP_DAYS: 7
+          DRY_RUN: "true"
+        run: |
+          sudo apt-get update && sudo apt-get install -y jq
+          TOKEN=$(curl -s -H "Content-Type: application/json" -X POST -d '{"username":"'$DOCKER_USER'","password":"'$DOCKER_TOKEN'"}' https://hub.docker.com/v2/users/login/ | jq -r .token)
+          PAGE=1
+          TOTAL_PAGES=1
+          CURRENT_TIME=$(date +%s)
+          RETAIN_SECONDS=$((KEEP_DAYS * 86400))
+          echo "开始清理超过$KEEP_DAYS天的标签（DRY_RUN=$DRY_RUN）"
+          while [ $PAGE -le $TOTAL_PAGES ]; do
+            echo "获取第$PAGE页标签..."
+            RESPONSE=$(curl -s -H "Authorization: JWT $TOKEN" "https://hub.docker.com/v2/repositories/$REPO/tags/?page=$PAGE&page_size=100")
+            TOTAL_PAGES=$(echo "$RESPONSE" | jq -r '.count / 100 | ceil')
+            TAGS_TO_DELETE=$(echo "$RESPONSE" | jq -r --argjson now "$CURRENT_TIME" --argjson retain "$RETAIN_SECONDS" '.results[] | select( (.last_updated | strptime("%Y-%m-%dT%H:%M:%S.%fZ") | mktime) < ($now - $retain) ) | .name')
+            while IFS= read -r tag; do
+              if [ "$tag" != "null" ] && [ -n "$tag" ]; then
+                echo "发现过期标签: $tag"
+                if [ "$DRY_RUN" = "false" ]; then
+                  DELETE_RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" -X DELETE -H "Authorization: JWT $TOKEN" "https://hub.docker.com/v2/repositories/$REPO/tags/$tag/")
+                  if [ "$DELETE_RESPONSE" -eq 204 ]; then
+                    echo "已删除标签: $tag"
+                  else
+                    echo "删除失败（状态码$DELETE_RESPONSE）: $tag"
+                  fi
+                fi
+              fi
+            done <<< "$TAGS_TO_DELETE"
+            ((PAGE++))
+          done
+          echo "清理完成"

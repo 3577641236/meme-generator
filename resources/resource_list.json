@@ -7232,6 +7232,10 @@
     "hash": "8458b2c1c65150e1c7fc014c5cc8edd8"
   },
   {
+    "path": "kurogames_cartethyia_feetup/images/0.png",
+    "hash": "aa48f071bfcacdb187ab579c9ce53fae"
+  },
+  {
     "path": "kurogames_cartethyia_holdsign/images/0.png",
     "hash": "7905406e5759a29c2fb3a308688123cd"
   },
@@ -14762,6 +14766,18 @@
   {
     "path": "sm/images/9.png",
     "hash": "ac612825c98c9c3ec27495b41007083d"
+  },
+  {
+    "path": "small_hands/images/1.png",
+    "hash": "ba50bdf4803df42cf6809d13abea3a27"
+  },
+  {
+    "path": "small_hands/images/2.png",
+    "hash": "ba50bdf4803df42cf6809d13abea3a27"
+  },
+  {
+    "path": "small_hands/images/3.png",
+    "hash": "70595788ffb19fc9151ef4fea201c36b"
   },
   {
     "path": "smash/images/0.png",

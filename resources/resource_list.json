@@ -1796,6 +1796,10 @@
     "hash": "036bbf2ab5df5b25e3b424397aa02ccc"
   },
   {
+    "path": "chillet_deer/images/0.png",
+    "hash": "70ce5b910cc5e9c5c42aecd22d723630"
+  },
+  {
     "path": "china_flag/images/0.png",
     "hash": "aa64adae6f7ede5bceafe81a5273cafc"
   },
@@ -2418,6 +2422,54 @@
   {
     "path": "clown_mask/images/2.png",
     "hash": "066feeaf1eb37ace405820657eaf6b58"
+  },
+  {
+    "path": "clownish/images/1.png",
+    "hash": "5521a1a28c3058012da0104e89cdbf42"
+  },
+  {
+    "path": "clownish/images/10.png",
+    "hash": "3cb1994e9463e261ca6699be36493f80"
+  },
+  {
+    "path": "clownish/images/11.png",
+    "hash": "7f320495ce557f21f9fa411d95d4b3ea"
+  },
+  {
+    "path": "clownish/images/12.png",
+    "hash": "e00bba04c2e12bced96c91460504e21a"
+  },
+  {
+    "path": "clownish/images/2.png",
+    "hash": "d9d9ad531f98b1bb4800aac75728968b"
+  },
+  {
+    "path": "clownish/images/3.png",
+    "hash": "ad6b782e1864b72a0082a845218d1935"
+  },
+  {
+    "path": "clownish/images/4.png",
+    "hash": "1736d9dec62f745ebf6e43618f7497fb"
+  },
+  {
+    "path": "clownish/images/5.png",
+    "hash": "35e5a5a2fa4899c31f8251b2728eef84"
+  },
+  {
+    "path": "clownish/images/6.png",
+    "hash": "159f023178be0c1a0c6b878fcf2e6cae"
+  },
+  {
+    "path": "clownish/images/7.png",
+    "hash": "57aaa66b57f0337a1592a1e0e032879f"
+  },
+  {
+    "path": "clownish/images/8.png",
+    "hash": "920d87d28b0c698d92594198bac70218"
+  },
+  {
+    "path": "clownish/images/9.png",
+    "hash": "8ff912a11ba1c9bf15d0ab49b2e21bed"
   },
   {
     "path": "cockroaches/images/0.png",
@@ -14106,6 +14158,26 @@
   {
     "path": "read_book/images/0.png",
     "hash": "c0bfd676ec62f8ef1a2e2c98244681ba"
+  },
+  {
+    "path": "read_love_letters/images/1.png",
+    "hash": "58ea3f75c1c82e01732666eed31baf8d"
+  },
+  {
+    "path": "read_love_letters/images/2.png",
+    "hash": "324364447d8c40e3de6f4ce5164ea5b9"
+  },
+  {
+    "path": "read_love_letters/images/3.png",
+    "hash": "bb67aadbdfbe0976e59545462efafbe1"
+  },
+  {
+    "path": "read_love_letters/images/4.png",
+    "hash": "6e2adbf014acd8aa4215a411410ad711"
+  },
+  {
+    "path": "read_love_letters/images/5.png",
+    "hash": "1e333ae766a63d14aa435a192bbc20d9"
   },
   {
     "path": "remote_control/images/0.png",

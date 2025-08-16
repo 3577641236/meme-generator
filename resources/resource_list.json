@@ -172,6 +172,10 @@
     "hash": "ce8572a78d252e85fd905aa2856c4922"
   },
   {
+    "path": "allegiance/images/0.png",
+    "hash": "83e11bf07f86aefa051715461d8ec080"
+  },
+  {
     "path": "always_like/images/0.png",
     "hash": "7e4b3845cf80fa46942269d58bd64e9d"
   },
@@ -11058,6 +11062,22 @@
   {
     "path": "piboss/images/2.png",
     "hash": "05e0cab304ddbf4b1267fe8a33e2bf6f"
+  },
+  {
+    "path": "picking_flowers/images/1.png",
+    "hash": "c7c38be69ed0ed504ef3bbe1aba4fbdf"
+  },
+  {
+    "path": "picking_flowers/images/2.png",
+    "hash": "9237010701809dda0f5d44759e81ee14"
+  },
+  {
+    "path": "picking_flowers/images/3.png",
+    "hash": "47ce986220ba3c3657f11d411875fe01"
+  },
+  {
+    "path": "picking_flowers/images/4.png",
+    "hash": "4595a00ae6a6f09799b8f627f63190dc"
   },
   {
     "path": "pierrot_plus_head/images/0.png",

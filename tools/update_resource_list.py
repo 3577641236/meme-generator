@@ -10,6 +10,7 @@ meme_paths = [
     project_path / "meme_generator" / "memes_jj", 
     project_path / "meme_generator" / "memes_emoji", 
     project_path / "meme_generator" / "memes_other", 
+    project_path / "meme_generator" / "memes_emoji_nsfw", 
 ]
 
 resource_list_path = project_path / "resources" / "resource_list.json"

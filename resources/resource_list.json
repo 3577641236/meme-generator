@@ -152,6 +152,10 @@
     "hash": "dc201145111b74eca4d09429afe0dfb9"
   },
   {
+    "path": "admission_letter/images/0.png",
+    "hash": "8b162acc8b006ce47bc18077bbb09b31"
+  },
+  {
     "path": "adoption/images/0.png",
     "hash": "86fcd5396652e1442a5c8cf218cf90ba"
   },
@@ -7522,6 +7526,26 @@
   {
     "path": "kurogames_changli_finger/images/0.png",
     "hash": "ee74d3b4adbc1a78095b493d19c2600b"
+  },
+  {
+    "path": "kurogames_changli_holdsign/images/changli_01.png",
+    "hash": "c50be458f7938bb9e02b9f8c839420d1"
+  },
+  {
+    "path": "kurogames_changli_holdsign/images/changli_02.png",
+    "hash": "64eb59ef2b4f54c56e80cd4c808c476a"
+  },
+  {
+    "path": "kurogames_changli_holdsign/images/changli_03.png",
+    "hash": "5a6bae95aa0d346b540b08f4c3d60270"
+  },
+  {
+    "path": "kurogames_changli_holdsign/images/changli_04.png",
+    "hash": "7b89b0149b4a57a799e22fabf8c3af9b"
+  },
+  {
+    "path": "kurogames_changli_holdsign/images/changli_05.png",
+    "hash": "40d87a58101f869a9f59dd6e8e09a4c1"
   },
   {
     "path": "kurogames_chun_holdsign/images/0.png",

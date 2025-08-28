@@ -10,7 +10,7 @@ from meme_generator.utils import make_jpg_or_gif
 img_dir = Path(__file__).parent / "images"
 
 
-def fleshlight_pure_buttocks(images: list[BuildImage], texts: list[str], args: MemeArgsModel):
+def qixi_festival(images: list[BuildImage], texts: list[str], args: MemeArgsModel):
     frame = BuildImage.open(img_dir / "0.png")
 
     ta = "他"
@@ -22,13 +22,13 @@ def fleshlight_pure_buttocks(images: list[BuildImage], texts: list[str], args: M
         ta = "他" if info.gender == "male" else "她"
         name = info.name or ta
 
-    text = f"{name}最爱❤️"
-    #{name}挚爱❤️👩‍❤️‍💋‍👨{name}愛のカップ。
+    text = f"农历七月初七 新历8月29日 20:00 \n{name}和派蒙在原神官方直播间过七夕"
+
     try:
         frame.draw_text(
-            (835, 394, 1119, 464),
+            (58, 1085, 1330, 1234),
             text,
-            fill=(255, 255, 255),
+            fill=(0, 0, 0),
             max_fontsize=100,
             min_fontsize=20,
             lines_align="center",
@@ -38,21 +38,20 @@ def fleshlight_pure_buttocks(images: list[BuildImage], texts: list[str], args: M
         raise TextOverLength(name)
 
     def make(imgs: list[BuildImage]) -> BuildImage:
-        img = imgs[0].convert("RGBA").circle().resize((920, 920))
-        img = img.rotate(-15, expand=True)
-        return frame.copy().paste(img, (-160, -50), alpha=True, below=True)
+        img = imgs[0].convert("RGBA").circle().resize((370, 370))
+        return frame.copy().paste(img, (618, 284), alpha=True,below=True)
 
     return make_jpg_or_gif(images, make)
 
 
 add_meme(
-    "fleshlight_pure_buttocks",
-    fleshlight_pure_buttocks,
+    "qixi_festival",
+    qixi_festival,
     min_images=1,
     max_images=1,
     min_texts=0,
     max_texts=1,
-    keywords=["纯洁臀"],
-    date_created=datetime(2025, 3, 13),
-    date_modified=datetime(2025, 3, 13),
+    keywords=["七夕和谁过","七夕和谁过?","七夕和谁过？"],
+    date_created=datetime(2025, 8, 28),
+    date_modified=datetime(2025, 8, 28),
 )

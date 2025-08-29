@@ -9,6 +9,7 @@ on:
       - "meme_generator/memes_jj/**"
       - "meme_generator/memes_emoji/**"
       - "meme_generator/memes_other/**"
+      - "meme_generator/memes_emoji_nsfw/**"
   workflow_dispatch:
 
 permissions:
